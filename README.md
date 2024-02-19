@@ -14,6 +14,7 @@ At Imaginify, we believe in the power of creativity and expression. That's why w
 - Article Display
 - Responsive Design
 - Link Navigation
+- API Integration
 - button functionality
 - Dark/Light Mode
 - Favorites Save Option
@@ -39,7 +40,7 @@ At Imaginify, we believe in the power of creativity and expression. That's why w
 
 ## Demo
 
-Check out the live demo of [Imaginify](https://sumitkadam451.github.io/Imaginify/)
+Check out the live demo of [Imaginify](https://imaginify.000webhostapp.com/)
 
 
 ## 🚀 About Me
@@ -58,7 +59,7 @@ Have questions, suggestions, or just want to say hi? Don't hesitate to reach out
 
 -LinkedIn: Let's connect on [LinkedIn](https://www.linkedin.com/in/sumit-kadam-380190219/)
 
--LinkeFolio: Here's my [Bento! ](https://bento.me/sumit-linkfolio)
+-LinkeFolio: Here's my [Bento!](https://bento.me/sumit-linkfolio)
 
 -Instagram: Share your moments with me [Sumit.Kadam.451](https://www.instagram.com/sumit.kadam.451/)
 
