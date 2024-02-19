@@ -40,7 +40,7 @@ At Imaginify, we believe in the power of creativity and expression. That's why w
 
 ## Demo
 
-Check out the live demo of [Imaginify](https://imaginify.000webhostapp.com/)
+Check out the live demo of [Imaginify](https://imaginify.pages.dev/)
 
 
 ## 🚀 About Me
